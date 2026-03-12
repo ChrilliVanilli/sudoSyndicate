@@ -53,9 +53,6 @@ cd sudoSyndicate
 
 bash
 
-# Mit Python (empfohlen)
-python3 -m http.server 8000
-
 # Oder direkt im Browser öffnen
 open index.html
 
